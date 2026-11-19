@@ -4,6 +4,9 @@ format: html
 editor: visual
 ---
 
+**To: BST260 Teaching Team, Fall 2026**
+
+
 # Introduction
 For my final project, I would like to explore the relationship between sleep and mental health. I am interested in this topic because sleep is something that affects our daily lives, and I want to better understand whether people who get less sleep also tend to have worse mental health.
 
